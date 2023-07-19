@@ -9,6 +9,8 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
+    "@hawtio/camel-model-v3": "npm:@hawtio/camel-model@^3.21.0",
+    "@hawtio/camel-model-v4": "npm:@hawtio/camel-model@^4.0.0-rc.1",
     "@patternfly/react-core": "^4.276.8",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
